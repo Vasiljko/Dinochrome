@@ -8,7 +8,7 @@ pygame.font.init()
 pygame.display.set_caption("Dinochrome")
 STAT_FONT = pygame.font.SysFont("bitstreamverasans", 16)
 
-PTERO_POS = [380,350,300]
+PTERO_POS = [180,150,100]
 
 VEL = 8
 MAX_VEL = 20
