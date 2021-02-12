@@ -1,4 +1,3 @@
-import pygame
 from PIL import Image
 
 white = (0, 255, 255)
